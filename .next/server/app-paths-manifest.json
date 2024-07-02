@@ -1,0 +1,6 @@
+{
+  "/(logged)/home/page": "app/(logged)/home/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/(unlogged)/login/page": "app/(unlogged)/login/page.js",
+  "/api/categories/route": "app/api/categories/route.js"
+}

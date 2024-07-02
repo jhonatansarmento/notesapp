@@ -1,0 +1,37 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[13].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"src/styles/global.styles.ts","import":"","arguments":[{"src":[{"path":"../assets/fonts/roboto/Roboto-Light.ttf","weight":"300","style":"normal"},{"path":"../assets/fonts/roboto/Roboto-Regular.ttf","weight":"400","style":"normal"},{"path":"../assets/fonts/roboto/Roboto-Medium.ttf","weight":"500","style":"normal"},{"path":"../assets/fonts/roboto/Roboto-Bold.ttf","weight":"700","style":"normal"}]}],"variableName":"roboto"} ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__roboto_8bf6af';
+src: url(/_next/static/media/ccc34a882868f266-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 300;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__roboto_8bf6af';
+src: url(/_next/static/media/0e6e4c28297310dc-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 400;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__roboto_8bf6af';
+src: url(/_next/static/media/2950dc844ee5eec6-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 500;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__roboto_8bf6af';
+src: url(/_next/static/media/97f4a80ea0b88f78-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 700;
+font-style: normal;
+}@font-face {font-family: '__roboto_Fallback_8bf6af';src: local("Arial");ascent-override: 92.49%;descent-override: 24.34%;line-gap-override: 0.00%;size-adjust: 100.30%
+}.__className_8bf6af {font-family: '__roboto_8bf6af', '__roboto_Fallback_8bf6af'
+}
+
